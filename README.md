@@ -15,8 +15,8 @@ This repository contains my solution for the Skylark Labs ML Engineer Assessment
 - `ML_Assessment_MohitAgrawal.ipynb`: Complete solution with all outputs
 
 ## Key Results
-- Successfully replaced X ReLU activations with SiLU
-- Trained for 10 epochs achieving X.X% final validation accuracy
+ Successfully replaced X ReLU activations with SiLU
+- Trained for 10 epochs achieving 87.03% final validation accuracy
 - Generated confusion matrix and performance analysis
 
 ## Requirements Met
