@@ -12,7 +12,7 @@ This repository contains my solution for the Skylark Labs ML Engineer Assessment
 - **Results**: Achieved X.X% validation accuracy
 
 ## Files
-- `ML_Assessment_<YourName>.ipynb`: Complete solution with all outputs
+- `ML_Assessment_MohitAgrawal.ipynb`: Complete solution with all outputs
 
 ## Key Results
 - Successfully replaced X ReLU activations with SiLU
